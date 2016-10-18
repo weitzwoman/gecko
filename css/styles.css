@@ -7,7 +7,7 @@ a:visited {
 }
 
 p {
-  color: black;
+  /*color: black;*/
   font-family: fantasy;
   font-size: 1em;
 }
@@ -34,15 +34,20 @@ ul {
 
 #main {
     text-align: center;
-    background-color: honeydew;
+    /*background-color: honeydew;*/
     width: 900px;
     margin: auto;
 }
 
-body {
+/*body {
   background-color: forestgreen;
-}
+}*/
 
 h1 {
   padding-top: 80px;
+}
+
+.black-background {
+  background-color: black;
+  color: white
 }
